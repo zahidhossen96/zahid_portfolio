@@ -69,3 +69,5 @@ I'm a highly motivated individual with a Master's Degree in Business Intelligenc
 Feel free to explore my GitHub repositories to see my projects and contributions. Let's connect and collaborate!
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZahidHossen-blue)](https://github.com/ZahidHossen)
+
+## Publications
